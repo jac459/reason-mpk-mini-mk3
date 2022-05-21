@@ -17,7 +17,7 @@ Following added devices have basic controls (8 or 16 knobs):
 ### Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Complex1, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
 ### Audiorealism: abl3
 
-Many other devices are supported thanks to the work of philosurfer: all the ther reason devices (as far as I have seen), ReSpire, ElectroClap, ...
+Many other devices are supported thanks to the work of philosurfer: all the other reason devices (as far as I have seen), ReSpire, ElectroClap, ...
 
 
 
@@ -38,6 +38,7 @@ Once installed, restart Reason and proceed to plugin your MPK Mini MK3 and mannu
 
 # Install for Windows - NOT WORKING
 I need help with a windows script to install, as I do not have a windows machine to test on.PRs accepeted
+==> manual install is ultra easy though, you just have to go to the "remote" folder of your reason installation and place the folders with the both lua files and remotemap (if you don't see what I mean, just look what is in the remote folder. 
 
 
 # Contribution - Remote mapping
