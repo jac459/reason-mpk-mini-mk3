@@ -6,16 +6,16 @@ This is a fork of the excellent work of philoSurfer.
 ###### increase the number of controls per synths using groups ===> Use the drumpad to change the group you control, allowing to control 64 elements in the synth with the 8 knobs of the mk3 (ex: pad1 to control the Engine 1 of Scenic, pad2 for Engine 2, pad3 Filter 1, etc...)
 
 So far the following Synths have rich controls:
-Reason: Europa, Thor, Subtractor, Malstrom, Algoritm, Parsec(1&2), Scenic and Friktion
-Rob Papen: Go2
-Robotic Bean: Resonans
-Synapse: The Legend, Antidote
-Blamsoft: Expanse
-Softtube: Saturation knob (only 2 knobs, lol)
+### Reason: Europa, Thor, Subtractor, Malstrom, Algoritm, Parsec(1&2), Scenic and Friktion
+### Rob Papen: Go2
+### Robotic Bean: Resonans
+### Synapse: The Legend, Antidote
+### Blamsoft: Expanse
+### Softtube: Saturation knob (only 2 knobs, lol)
 
 Following added devices have basic controls (8 or 16 knobs):
-Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Complex1, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
-Audiorealism: abl3
+### Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Complex1, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
+### Audiorealism: abl3
 
 Many other devices are supported thanks to the work of philosurfer: all the ther reason devices (as far as I have seen), ReSpire, ElectroClap, ...
 
