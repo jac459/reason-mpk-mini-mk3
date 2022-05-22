@@ -23,7 +23,7 @@ Many other devices are supported thanks to the work of philosurfer: all the othe
 
 
 
-Create a working set of remote files for the new Akai MPK Mini MKIII, which currently does not have a supported set of mappings.  The MKII mappings do not work.
+# Create a working set of remote files for the new Akai MPK Mini MKIII, which currently does not have a supported set of mappings.  The MKII mappings do not work.
 
 
 # Install for macOS
