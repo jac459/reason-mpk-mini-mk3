@@ -13,9 +13,10 @@ So far the following Synths have rich controls:
 ### Rob Papen: Go2
 ### Robotic Bean: Resonans
 ### Synapse: The Legend, Antidote
-### Blamsoft: Expanse
+### Blamsoft: Expanse, VK-2 Vicking Synthesizer
 ### Softtube: Saturation knob (only 2 knobs, lol)
 ### Lectric Panda: Nostromo (80 elements controlled)
+### Zvork: Oberon Synthesizer
 
 Following added devices have basic controls (8 or 16 knobs):
 ### Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Complex1, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
