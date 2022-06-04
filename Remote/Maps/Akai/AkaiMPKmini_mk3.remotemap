@@ -759,7 +759,6 @@ Map	Knob 6		Delay Feedback			Rev
 Map	Knob 7		Delay Tilt			Rev
 Map	Knob 8		Delay Mix			Rev
 
-
 Scope	Synapse Audio	com.synapseAudioSoftware.Legend
 Define Group	 Keyboard Shortcut Variations	Engine1	Engine2	Engine3	Control	Env	Contro2	Filter
 
@@ -1008,6 +1007,95 @@ Map	Knob 6		Distortion High Cut			Dist
 Map	Knob 7		Distortion Distortion Out Gain			Dist
 Map	Knob 8		Distortion Dry/Wet			Dist
 
+Scope	Reveal Sound	com.revealSound.ReSpire
+Define Group	 Keyboard Shortcut Variations	Osc1a	Osc1b	Osc2a	Osc2b	Filter	Gen	LFO1a	LFO1b	Env1a	Env2a
+Map	Pad Button A5		Keyboard Shortcut Variations=Osc1a
+Map	Pad Button A1		Keyboard Shortcut Variations=Osc1b
+Map	Pad Button A6		Keyboard Shortcut Variations=Osc2a
+Map	Pad Button A2		Keyboard Shortcut Variations=Osc2b
+Map	Pad Button A7		Keyboard Shortcut Variations=Filter
+Map	Pad Button A3		Keyboard Shortcut Variations=Gen
+Map	Pad Button A8		Keyboard Shortcut Variations=LFO1a
+Map	Pad Button A4		Keyboard Shortcut Variations=LFO1b
+Map	Pad Button B5		Keyboard Shortcut Variations=Env1a
+Map	Pad Button B6		Keyboard Shortcut Variations=Env2a
+Map	Knob 5		Osc 1 Note			Osc1a
+Map	Knob 6		Osc 1 ctrlA			Osc1a
+Map	Knob 7		Osc 1 Phase			Osc1a
+Map	Knob 8		Osc 1 Wave			Osc1a
+Map	Knob 2		Osc 1 Fine			Osc1a
+Map	Knob 3		Osc 1 ctrlB			Osc1a
+Map	Knob 4		Osc 1 WTmix			Osc1a
+Map	Knob 1		OSc 1 Type			Osc1a
+Map	Knob 1		Osc 1 Udet			Osc1b
+Map	Knob 2		Osc 1 Uden			Osc1b
+Map	Knob 5		Osc 1 Ucnt			Osc1b
+Map	Knob 6		Osc 1 Uoct			Osc1b
+Map	Knob 3		Osc 1 Uwid			Osc1b
+Map	Knob 4		Mix Osc 1			Osc1b
+Map	Knob 7		Osc 1 Pan			Osc1b
+Map	Knob 8		OSc 1 MixTo			Osc1b
+Map	Knob 5		Osc 2 Note			Osc2a
+Map	Knob 6		Osc 2 ctrlA			Osc2a
+Map	Knob 7		Osc 2 Phase			Osc2a
+Map	Knob 8		Osc 2 Wave			Osc2a
+Map	Knob 2		Osc 2 Fine			Osc2a
+Map	Knob 3		Osc 2 ctrlB			Osc2a
+Map	Knob 4		Osc 2 WTmix			Osc2a
+Map	Knob 1		OSc 2 Type			Osc2a
+Map	Knob 1		Osc 2 Udet			Osc2b
+Map	Knob 2		Osc 2 Uden			Osc2b
+Map	Knob 5		Osc 2 Ucnt			Osc2b
+Map	Knob 6		Osc 2 Uoct			Osc2b
+Map	Knob 3		Osc 2 Uwid			Osc2b
+Map	Knob 4		Mix Osc 2			Osc2b
+Map	Knob 7		Osc 2 Pan			Osc2b
+Map	Knob 8		OSc 2 MixTo			Osc2b
+Map	Knob 1		Flt 1 Type Mode			Filter
+Map	Knob 2		Flt 1 Cut			Filter
+Map	Knob 3		Flt 1 Res			Filter
+Map	Knob 4		Flt KeyTrack			Filter
+Map	Knob 5		Flt 2 Type Mode			Filter
+Map	Knob 6		Flt 2 Cut			Filter
+Map	Knob 7		Flt 2 Res			Filter
+Map	Knob 8		Flt Balance			Filter
+Map	Knob 1		Glide Log			Gen
+Map	Knob 2		Glide			Gen
+Map	Knob 5		Drift			Gen
+Map	Knob 3		Macro1			Gen
+Map	Knob 4		Macro3			Gen
+Map	Knob 7		Macro2			Gen
+Map	Knob 8		Macro4			Gen
+Map	Knob 1		LFO1 Rate			LFO1a
+Map	Knob 2		LFO1 Sym			LFO1a
+Map	Knob 5		LFO1 Phase			LFO1a
+Map	Knob 6		LFO1 Amp			LFO1a
+Map	Knob 3		LFO1 Amt1			LFO1a
+Map	Knob 4		LFO1 vel1			LFO1a
+Map	Knob 7		LFO1 amt2			LFO1a
+Map	Knob 8		LFO1 vel2			LFO1a
+Map	Knob 1		LFO1 time			LFO1b
+Map	Knob 2		LFO1 morph			LFO1b
+Map	Knob 5		LFO1 Sync			LFO1b
+Map	Knob 6		LFO1 Mono			LFO1b
+Map	Knob 3		LFO1 Form			LFO1b
+Map	Knob 1		Env1 att			Env1a
+Map	Knob 2		Env1 dec			Env1a
+Map	Knob 3		Env1 sus			Env1a
+Map	Knob 4		Env1 rel			Env1a
+Map	Knob 5		Env1 Amt1			Env1a
+Map	Knob 6		Env1 vel1			Env1a
+Map	Knob 7		Env1 amt2			Env1a
+Map	Knob 8		Env1 vel2			Env1a
+Map	Knob 1		Env2 att			Env2a
+Map	Knob 2		Env2 dec			Env2a
+Map	Knob 3		Env2 sus			Env2a
+Map	Knob 4		Env2 rel			Env2a
+Map	Knob 5		Env2 Amt1			Env2a
+Map	Knob 6		Env2 vel1			Env2a
+Map	Knob 7		Env2 amt2			Env2a
+Map	Knob 8		Env2 vel2			Env2a
+
 Scope	Blamsoft, Inc.	com.blamsoft.Expanse
 Define Group	 Keyboard Shortcut Variations	Engine1	Engine2	Engine3	Engine4	Filter	LFO1	LFO2	LFO3
 Map	Pad Button A1		Keyboard Shortcut Variations=Filter
@@ -1082,6 +1170,143 @@ Map	Knob 5		LFO 3 Target 1 Amount			LFO3
 Map	Knob 6		LFO 3 Target 2 Amount			LFO3
 Map	Knob 7		LFO 3 Target 3 Amount			LFO3
 Map	Knob 8		LFO 3 Target 4 Amount			LFO3
+
+Scope	Blamsoft, Inc.	com.blamsoft.VK2
+Define Group	 Keyboard Shortcut Variations	Osc1	Osc2	Osc3	Mixer	Env1	Env2	Amplifier
+Map	Pad Button A5		Keyboard Shortcut Variations=Osc1
+Map	Pad Button A6		Keyboard Shortcut Variations=Osc2
+Map	Pad Button A7		Keyboard Shortcut Variations=OSC3
+Map	Pad Button A8		Keyboard Shortcut Variations=Mixer
+Map	Pad Button A1		Keyboard Shortcut Variations=Env1
+Map	Pad Button A2		Keyboard Shortcut Variations=Env2
+Map	Pad Button A3		Keyboard Shortcut Variations=Amplifier
+Map	Knob 1		OSC 1 Coarse			Osc1
+Map	Knob 2		OSC 1 Fine			Osc1
+Map	Knob 3		OSC 1 Range			Osc1
+Map	Knob 4		OSC 1 Shape			Osc1
+Map	Knob 5		OSC 1 Frequency Mod 1 Amount			Osc1
+Map	Knob 6		OSC 1 Frequency Mod 2 Amount			Osc1
+Map	Knob 7		OSC 1 Linear FM Mod Amount			Osc1
+Map	Knob 8		OSC 1 Shape Mod Amount			Osc1
+Map	Knob 1		OSC 2 Coarse			Osc2
+Map	Knob 2		OSC 2 Fine			Osc2
+Map	Knob 3		OSC 2 Range			Osc2
+Map	Knob 4		OSC 2 Shape			Osc2
+Map	Knob 5		OSC 2 Frequency Mod 1 Amount			Osc2
+Map	Knob 6		OSC 2 Frequency Mod 2 Amount			Osc2
+Map	Knob 7		OSC 2 Linear FM Mod Amount			Osc2
+Map	Knob 8		OSC 2 Shape Mod Amount			Osc2
+Map	Knob 1		OSC 3 Coarse			Osc3
+Map	Knob 2		OSC 3 Fine			Osc3
+Map	Knob 3		OSC 3 Range			Osc3
+Map	Knob 4		OSC 3 Shape			Osc3
+Map	Knob 5		OSC 3 Frequency Mod 1 Amount			Osc3
+Map	Knob 6		OSC 3 Frequency Mod 2 Amount			Osc3
+Map	Knob 7		OSC 3 Linear FM Mod Amount			Osc3
+Map	Knob 8		OSC 3 Shape Mod Amount			Osc3
+Map	Knob 1		Mix 1 Amount			Mixer
+Map	Knob 2		Mix 2 Amount			Mixer
+Map	Knob 3		Mix 3 Amount			Mixer
+Map	Knob 4		Mix 4 Amount			Mixer
+Map	Knob 5		Filters Frequency			Mixer
+Map	Knob 6		Filters Resonance			Mixer
+Map	Knob 7		Filters Spacing			Mixer
+Map	Knob 8		Filters Frequency Mod 1 Amount			Mixer
+Map	Knob 1		Envelope 1 Attack			Env1
+Map	Knob 2		Envelope 1 Decay			Env1
+Map	Knob 3		Envelope 1 Sustain			Env1
+Map	Knob 4		Envelope 1 Release			Env1
+Map	Knob 5		Envelope 1 Velocity Sensitivity			Env1
+Map	Knob 6		Envelope 1 Curve			Env1
+Map	Knob 7		Modulation Bus 1 Scale Amount			Env1
+Map	Knob 8		Modulation Bus 2 Scale Amount			Env1
+Map	Knob 1		Envelope 2 Attack			Env2
+Map	Knob 2		Envelope 2 Decay			Env2
+Map	Knob 3		Envelope 2 Sustain			Env2
+Map	Knob 4		Envelope 2 Release			Env2
+Map	Knob 5		Envelope 2 Velocity Sensitivity			Env2
+Map	Knob 6		Envelope 2 Curve			Env2
+Map	Knob 7		LFO 1 Rate			Env2
+Map	Knob 8		LFO 2 Rate			Env2
+Map	Knob 1		Amp Level			Amplifier
+Map	Knob 2		Amp Drive			Amplifier
+Map	Knob 3		Amp Control Mod 1 Amount			Amplifier
+Map	Knob 4		Amp Pan Mod Amount			Amplifier
+Map	Knob 5		Unison Density			Amplifier
+Map	Knob 6		Unison Detune			Amplifier
+Map	Knob 7		Glide Amount			Amplifier
+Map	Knob 8		Unison Spread			Amplifier
+
+Scope	Zvork	fr.zvork.Oberton
+Define Group	 Keyboard Shortcut Variations	Osc1	Osc2	Mixer1	Mixer2	LFO1	LFO2	Filter1	Filter2
+Map	Pad Button A5		Keyboard Shortcut Variations=Osc1
+Map	Pad Button A6		Keyboard Shortcut Variations=Osc2
+Map	Pad Button A7		Keyboard Shortcut Variations=Mixer1
+Map	Pad Button A8		Keyboard Shortcut Variations=Mixer2
+Map	Pad Button A1		Keyboard Shortcut Variations=LFO1
+Map	Pad Button A2		Keyboard Shortcut Variations=LFO2
+Map	Pad Button A3		Keyboard Shortcut Variations=Filter1
+Map	Pad Button A4		Keyboard Shortcut Variations=Filter2
+Map	Knob 1		Osc. 1 - Wave Type			Osc1
+Map	Knob 2		Osc. 1 - Wave Start			Osc1
+Map	Knob 3		Osc. 1 - Pitch - Octave			Osc1
+Map	Knob 4		Osc. 1 - Unison - Voice Count			Osc1
+Map	Knob 5		Osc. 1 - Morphing Position			Osc1
+Map	Knob 6		Osc. 1 - Morphing Target Transpose			Osc1
+Map	Knob 7		Osc. 1 - Harmonize			Osc1
+Map	Knob 8		Osc. 1 - Harmonize Limit			Osc1
+Map	Knob 2		Osc. 2 - Wave Type			Osc2
+Map	Knob 1		Osc. 2 - Wave Start			Osc2
+Map	Knob 3		Osc. 2 - Pitch - Octave			Osc2
+Map	Knob 4		Osc. 2 - Unison - Voice Count			Osc2
+Map	Knob 6		Osc. 2 - Morphing Position			Osc2
+Map	Knob 5		Osc. 2 - Morphing Target Transpose			Osc2
+Map	Knob 8		Osc. 2 - Harmonize			Osc2
+Map	Knob 7		Osc. 2 - Harmonize Limit			Osc2
+Map	Knob 1		Osc. 1 - Level			Mixer1
+Map	Knob 2		Osc. 2 - Level			Mixer1
+Map	Knob 3		Osc. 1 - Octave Copy Level			Mixer1
+Map	Knob 4		Osc. 2 - Octave Copy Level			Mixer1
+Map	Knob 5		Osc. 1 - Unison - Pitch			Mixer1
+Map	Knob 6		Osc. 2 - Unison - Pitch			Mixer1
+Map	Knob 7		Osc. 1 - Unison - Mix			Mixer1
+Map	Knob 8		Osc. 2 - Unison - Mix			Mixer1
+Map	Knob 1		Osc. 1 - Stereo - Pan			Mixer2
+Map	Knob 2		Osc. 2 - Stereo - Pan			Mixer2
+Map	Knob 3		Volume			Mixer2
+Map	Knob 4		Volume Velocity Modulation			Mixer2
+Map	Knob 5		Osc. 1 - Stereo - Width			Mixer2
+Map	Knob 6		Osc. 2 - Stereo - Width			Mixer2
+Map	Knob 7		Voice Mode			Mixer2
+Map	Knob 1		LFO 1 Shape			LFO1
+Map	Knob 2		LFO 1 Frequency			LFO1
+Map	Knob 3		LFO 1 Freq. Synced			LFO1
+Map	Knob 4		LFO 1 Tempo Sync.			LFO1
+Map	Knob 5		LFO 1 Key Sync.			LFO1
+Map	Knob 6		LFO 1 Delay			LFO1
+Map	Knob 7		LFO 1 Rise			LFO1
+Map	Knob 1		LFO 2 Shape			LFO2
+Map	Knob 2		LFO 2 Frequency			LFO2
+Map	Knob 3		LFO 2 Freq. Synced			LFO2
+Map	Knob 4		LFO 2 Tempo Sync.			LFO2
+Map	Knob 5		LFO 2 Key Sync.			LFO2
+Map	Knob 6		LFO 2 Delay			LFO2
+Map	Knob 7		LFO 2 Rise			LFO2
+Map	Knob 1		Filter 1 Frequency - Mod. Env. 1 Strength			Filter1
+Map	Knob 2		Filter 1 Frequency			Filter1
+Map	Knob 3		Filter 1 X>Y			Filter1
+Map	Knob 5		Filter 1 Frequency - Velocity Modulation			Filter1
+Map	Knob 6		Filter 1 Frequency - Kbd. tracking			Filter1
+Map	Knob 7		Osc. 1 - Filter Mode			Filter1
+Map	Knob 1		Filter 2 Frequency - Mod. Env. 2 Strength			Filter2
+Map	Knob 2		Filter 2 Frequency			Filter2
+Map	Knob 3		Filter 2 X>Y			Filter2
+Map	Knob 4		Glide			Filter2
+Map	Knob 5		Filter 2 Frequency - Velocity Modulation			Filter2
+Map	Knob 6		Filter 2 Frequency - Kbd. tracking			Filter2
+Map	Knob 7		Osc. 2 - Filter Mode			Filter2
+Map	Knob 8		GLide Velocity Mod.			Filter2
+
 
 Scope	Propellerheads	Pulveriser
 Define Group	 Keyboard Shortcut Variations	Aux1	Aux2
@@ -2292,13 +2517,6 @@ Map	Knob 3		Ambience Mix
 //Map	_control_		Intensity
 //Map	_control_		Volumee
 
-
-Scope	Reveal Sound	com.revealSound.ReSpire
-// Control Surface Item	Key	Remotable Item	Scale	Mode
-Map	Knob 1		Mix Osc 1
-Map	Knob 2		Mix Osc 2
-Map	Knob 3		Mix Osc 3
-Map	Knob 4		Mix Osc 4
 
 Scope	Propellerhead Software	se.propellerheads.Mimic
 //	Control Surface Item	Key	Remotable Item	Scale	Mode
