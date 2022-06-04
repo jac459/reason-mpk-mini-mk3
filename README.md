@@ -4,7 +4,7 @@ Reason Remote files for Akai MPK Mini MKIII
 ## Release 5th June 2022
 Blamsoft VK-2 / Zvork Oberon
 
-This is a fork of the excellent work of philoSurfer.
+## This is a fork of the excellent work of philoSurfer.
 ##### Intent is to :
 ###### increase the number of controls per synths using groups ===> Use the drumpad to change the group you control, allowing to control 64 to 80 elements in the synth with the 8 knobs of the mk3 (ex: pad1 to control the Engine 1 of Scenic, pad2 for Engine 2, pad3 Filter 1, etc...)
 
