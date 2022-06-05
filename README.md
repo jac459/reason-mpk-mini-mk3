@@ -1,15 +1,15 @@
 # reason-mpk-mini-mk3
 Reason Remote files for Akai MPK Mini MKIII
 
-## Release 5th June 2022
-Blamsoft VK-2 / Zvork Oberon
+## Release 6th June 2022
+Blamsoft VK-2 / Zvork Oberon / Complex-1
 
 ## This is a fork of the excellent work of philoSurfer.
 ##### Intent is to :
 ###### increase the number of controls per synths using groups ===> Use the drumpad to change the group you control, allowing to control 64 to 80 elements in the synth with the 8 knobs of the mk3 (ex: pad1 to control the Engine 1 of Scenic, pad2 for Engine 2, pad3 Filter 1, etc...)
 
 So far the following Synths have rich controls:
-### Reason: Europa, Thor, Subtractor, Malstrom, Algoritm, Parsec(1&2), Scenic and Friktion
+### Reason: Europa, Thor, Subtractor, Malstrom, Algoritm, Parsec2, Complex-1, Scenic and Friktion
 ### Rob Papen: Go2
 ### Robotic Bean: Resonans
 ### Reveal Sound: ReSpire
@@ -20,7 +20,7 @@ So far the following Synths have rich controls:
 ### Zvork: Oberon Synthesizer
 
 Following added devices have basic controls (8 or 16 knobs):
-### Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Complex1, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
+### Reason: Quartet, Sweeper, BVX Vocoder, Layers, Layers Wave Edition, Radical Keys, Processed Piano, Electric Bass, Reason Drum Kits, UMPF Club Drums, UMPF Retro Beats, Monotone, Reason Electric Bass, Mimic.
 ### Audiorealism: abl3
 
 Many other devices are supported thanks to the work of philosurfer: all the other reason devices (as far as I have seen), ElectroClap, ...
