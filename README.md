@@ -2,7 +2,7 @@
 Reason Remote files for Akai MPK Mini MKIII
 
 ## Release 6th June 2022
-Blamsoft VK-2 / Zvork Oberon / Complex-1 / PredatorRE
+Blamsoft VK-2 / Zvork Oberon / Complex-1 / PredatorRE / Obsession
 
 ## This is a fork of the excellent work of philoSurfer.
 ##### Intent is to :
