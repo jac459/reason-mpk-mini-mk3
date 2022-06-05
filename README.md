@@ -13,7 +13,7 @@ So far the following Synths have rich controls:
 ### Rob Papen: Go2, PredatorRE
 ### Robotic Bean: Resonans
 ### Reveal Sound: ReSpire
-### Synapse: The Legend, Antidote
+### Synapse: The Legend, Antidote, Obsession
 ### Blamsoft: Expanse, VK-2 Vicking Synthesizer
 ### Softtube: Saturation knob (only 2 knobs, lol)
 ### Lectric Panda: Nostromo (80 elements controlled)
