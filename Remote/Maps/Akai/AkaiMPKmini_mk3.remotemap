@@ -682,6 +682,101 @@ Map	Knob 6		EQ Parametric Gain			Part8
 Map	Knob 7		EQ Parametric Q			Part8
 Map	Knob 3		EQ Hi Gain			Part8
 
+Scope	Rob Papen	com.robpapen.predatorre
+Define Group	 Keyboard Shortcut Variations	OSC1	OSC2	OSC3	Filter	FilterAmp	ADSR	ENV	LFO	FX	PLAYMODE
+
+Map	Pad Button A5		Keyboard Shortcut Variations=OSC1
+Map	Pad Button A6		Keyboard Shortcut Variations=OSC2
+Map	Pad Button A7		Keyboard Shortcut Variations=OSC3
+Map	Pad Button A8		Keyboard Shortcut Variations=Filter
+Map	Pad Button A1		Keyboard Shortcut Variations=FilterAmp
+Map	Pad Button A2		Keyboard Shortcut Variations=ADSR
+Map	Pad Button A3		Keyboard Shortcut Variations=ENV
+Map	Pad Button A4		Keyboard Shortcut Variations=LFO
+Map	Pad Button B5		Keyboard Shortcut Variations=FX
+Map	Pad Button B1		Keyboard Shortcut Variations=PLAYMODE
+
+Map	Knob 1		Osc 1 Type			OSC1
+Map	Knob 5		Osc 1 Octave			OSC1
+Map	Knob 2		Osc PWM 1 Amount			OSC1
+Map	Knob 3		Osc 1 Symmetry			OSC1
+Map	Knob 4		Osc 1 Sub-Volume			OSC1
+Map	Knob 6		Osc 1 PWM Speed			OSC1
+Map	Knob 7		Osc 1 Spread	 		OSC1
+Map	Knob 8		Osc 1 Volume			OSC1
+Map	Knob 1		Osc 2 Type			OSC2
+Map	Knob 5		Osc 2 Octave			OSC2
+Map	Knob 2		Osc PWM 2 Amount			OSC2
+Map	Knob 3		Osc 2 Symmetry			OSC2
+Map	Knob 4		Osc 2 Sub-Volume			OSC2
+Map	Knob 6		Osc 2 PWM Speed			OSC2
+Map	Knob 7		Osc 2 Spread	 		OSC2
+Map	Knob 8		Osc 2 Volume			OSC2
+Map	Knob 1		Osc 3 Type			OSC3
+Map	Knob 5		Osc 3 Octave			OSC3
+Map	Knob 2		Osc PWM 3 Amount			OSC3
+Map	Knob 3		Osc 3 Symmetry			OSC3
+Map	Knob 4		Osc 3 Sub-Volume			OSC3
+Map	Knob 6		Osc 3 PWM Speed			OSC3
+Map	Knob 7		Osc 3 Spread	 		OSC3
+Map	Knob 8		Osc 3 Volume			OSC3
+Map	Knob 1		Filter Type			Filter
+Map	Knob 2		Filter Frequency			Filter
+Map	Knob 3		Filter Q			Filter
+Map	Knob 4		Filter Vowel			Filter
+Map	Knob 5		Filter Distort			Filter
+Map	Knob 6		Filter 2 Type			Filter
+Map	Knob 7		Filter 2 Freq			Filter
+Map	Knob 8		Filter 2 Q			Filter
+Map	Knob 1		Filter LFO Wave			FilterAmp
+Map	Knob 2		Filter LFO Mode			FilterAmp
+Map	Knob 3		Filter LFO Speed In MS			FilterAmp
+Map	Knob 4		Filter LFO Speed In QB			FilterAmp
+Map	Knob 5		Filter LFO Mod Amount			FilterAmp
+Map	Knob 6		Volume			FilterAmp
+Map	Knob 7		Velocity > Volume			FilterAmp
+Map	Knob 8		Pan			FilterAmp
+Map	Knob 1		Filter Envelope Attack			ADSR
+Map	Knob 2		Filter Envelope Decay			ADSR
+Map	Knob 3		Filter Envelope Sustain			ADSR
+Map	Knob 4		Filter Envelope Release			ADSR
+Map	Knob 5		Amp Attack			ADSR
+Map	Knob 6		Amp Decay			ADSR
+Map	Knob 7		Amp Sustain			ADSR
+Map	Knob 8		Amp Release			ADSR
+Map	Knob 1		Envelope 1 Attack in MS			ENV
+Map	Knob 2		Envelope 1 Decay in MS			ENV
+Map	Knob 3		Envelope 1 unsynced Sustain			ENV
+Map	Knob 4		Envelope 1 Release in MS			ENV
+Map	Knob 5		Envelope 1 Attack in QB			ENV
+Map	Knob 6		Envelope 1 Decay in QB			ENV
+Map	Knob 7		Envelope 1 Synced Sustain			ENV
+Map	Knob 8		Envelope 1 Release in QB			ENV
+Map	Knob 1		Free LFO 1 Wave			LFO
+Map	Knob 2		LFO 1 Speed in MS			LFO
+Map	Knob 3		LFO 1 Speed in QB			LFO
+Map	Knob 4		Free LFO 1 Sync			LFO
+Map	Knob 5		Free LFO 2 Wave			LFO
+Map	Knob 6		LFO 2 Speed in MS			LFO
+Map	Knob 7		LFO 2 Speed in QB			LFO
+Map	Knob 8		Free LFO 2 Sync			LFO
+Map	Knob 1		FX 1			FX
+Map	Knob 2		FX 1 Type			FX
+Map	Knob 3		FX 1 Pan			FX
+Map	Knob 5		FX 2			FX
+Map	Knob 6		FX 2 Type			FX
+Map	Knob 7		FX 2 Pan			FX
+Map	Knob 4		FX 3			FX
+Map	Knob 8		FX 3 Type			FX
+Map	Knob 1		Play Mode			PLAYMODE
+Map	Knob 2		Port Mode			PLAYMODE
+Map	Knob 3		Portamento			PLAYMODE
+Map	Knob 4		Unison			PLAYMODE
+Map	Knob 5		Unison Spread			PLAYMODE
+Map	Knob 6		Pitch LFO Amt			PLAYMODE
+Map	Knob 7		Pitch LFO Mod Amount			PLAYMODE
+Map	Knob 8		Pitch LFO Mod Source			PLAYMODE
+
 Scope	Rob Papen	com.robpapen.Go2
 Define Group	 Keyboard Shortcut Variations	OSC1	OSC2	OSC3	Filter	FilterEnv	LFO	Amp	Play
 
