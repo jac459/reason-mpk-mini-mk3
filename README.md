@@ -2,7 +2,7 @@
 Reason Remote files for Akai MPK Mini MKIII
 
 ## Release 6th June 2022
-Blamsoft VK-2 / Zvork Oberon / Complex-1
+Blamsoft VK-2 / Zvork Oberon / Complex-1 / PredatorRE
 
 ## This is a fork of the excellent work of philoSurfer.
 ##### Intent is to :
@@ -10,7 +10,7 @@ Blamsoft VK-2 / Zvork Oberon / Complex-1
 
 So far the following Synths have rich controls:
 ### Reason: Europa, Thor, Subtractor, Malstrom, Algoritm, Parsec2, Complex-1, Scenic and Friktion
-### Rob Papen: Go2
+### Rob Papen: Go2, PredatorRE
 ### Robotic Bean: Resonans
 ### Reveal Sound: ReSpire
 ### Synapse: The Legend, Antidote
