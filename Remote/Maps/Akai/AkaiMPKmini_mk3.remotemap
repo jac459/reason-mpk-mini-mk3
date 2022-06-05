@@ -386,6 +386,79 @@ Map	Knob 6		LFO 2 Rate			LFO
 Map	Knob 7		LFO 2 Delay			LFO
 Map	Knob 8		LFO 2 Global			LFO
 
+Scope	Propellerhead Software	se.propellerheads.Complex
+Define Group	 Keyboard Shortcut Variations	ComplexOsc	Osc3Comb	FilterLFO	LPG	Mixer	ADSR	Clock	Function
+
+Map	Pad Button A5		Keyboard Shortcut Variations=ComplexOsc
+Map	Pad Button A6		Keyboard Shortcut Variations=Osc3Comb
+Map	Pad Button A7		Keyboard Shortcut Variations=FilterLFO
+Map	Pad Button A8		Keyboard Shortcut Variations=LPG
+Map	Pad Button A1		Keyboard Shortcut Variations=Mixer
+Map	Pad Button A2		Keyboard Shortcut Variations=ADSR
+Map	Pad Button A3		Keyboard Shortcut Variations=CLock
+Map	Pad Button A4		Keyboard Shortcut Variations=Function
+
+Map	Knob 1		Osc 1 Pitch			ComplexOsc
+Map	Knob 2		Osc 1 Tune			ComplexOsc
+Map	Knob 3		Osc 1 Shape			ComplexOsc
+Map	Knob 5		Osc 2 Pitch			ComplexOsc
+Map	Knob 6		Osc 2 Tune			ComplexOsc
+Map	Knob 7		Osc 2 Shape			ComplexOsc
+Map	Knob 4		Osc1 To Osc2 FM			ComplexOsc
+Map	Knob 8		Osc1 To Osc2 AM			ComplexOsc
+Map	Knob 1		Osc 3 Pitch			Osc3Comb
+Map	Knob 2		Osc 3 Shape			Osc3Comb
+Map	Knob 3		Osc 3 Range			Osc3Comb
+Map	Knob 4		Comb Pitch			Osc3Comb
+Map	Knob 5		Comb Freq			Osc3Comb
+Map	Knob 6		Comb Peak			Osc3Comb
+Map	Knob 7		Comb FB			Osc3Comb
+Map	Knob 8		Comb DryWet			Osc3Comb
+Map	Knob 1		Filter Drive			FilterLFO
+Map	Knob 2		Filter Freq			FilterLFO
+Map	Knob 3		Filter Reso			FilterLFO
+Map	Knob 4		LFO Wave			FilterLFO
+Map	Knob 5		LFO Rate			FilterLFO
+Map	Knob 6		LFO Rate Amt			FilterLFO
+Map	Knob 7		Lag			FilterLFO
+Map	Knob 1		LPG1 Attack			LPG
+Map	Knob 2		LPG 1 Release			LPG
+Map	Knob 3		LPG 2 Attack			LPG
+Map	Knob 4		LPG 2 Release			LPG
+Map	Knob 5		LPG 1 Filter			LPG
+Map	Knob 6		LPG 2 Filter			LPG
+Map	Knob 1		Vol 1			Mixer
+Map	Knob 2		Vol 2			Mixer
+Map	Knob 3		Vol 3			Mixer
+Map	Knob 4		Pan 1 Amt			Mixer
+Map	Knob 5		Pan 1			Mixer
+Map	Knob 6		Pan 2			Mixer
+Map	Knob 7		Pan 3			Mixer
+Map	Knob 8		Pan 3 Amt			Mixer
+Map	Knob 1		Attack			ADSR
+Map	Knob 2		Decay			ADSR
+Map	Knob 3		Sustain			ADSR
+Map	Knob 4		Release			ADSR
+Map	Knob 5		Amp 1 Amt			ADSR
+Map	Knob 6		Amp 2 Amt			ADSR
+Map	Knob 7		Amp 3 Amt			ADSR
+Map	Knob 1		Clock 1 Rate			Clock
+Map	Knob 2		Clock 1 Len			Clock
+Map	Knob 3		Clock Rate Multiply			Clock
+Map	Knob 4		Clock 2 Rate			Clock
+Map	Knob 5		Clock 2 Len			Clock
+Map	Knob 6		Follow Host			Clock
+Map	Knob 7		Seq Step In			Clock
+Map	Knob 8		Seq Reset In			Clock
+Map	Knob 1		Function X In			Function
+Map	Knob 2		Function Y In			Function
+Map	Knob 3		Function Select			Function
+Map	Knob 4		Scope Speed			Function
+Map	Knob 5		Reverb On			Function
+Map	Knob 6		Reverb Type			Function
+Map	Knob 7		Reverb Level			Function
+Map	Knob 8		Reverb Decay			Function
+
 Scope	Propellerhead Software	se.propellerheads.Parsec
 Define Group	 Keyboard Shortcut Variations	Engine1a	Engine1b	Engine2a	Engine2b	Envelope	Env2	LFO1	LFO2
 
@@ -2596,20 +2669,6 @@ Map	Knob 6		oh_mix_vol
 Map	Knob 7		am_mix_vol
 Map	Knob 8		mst_cmp_mix
 
-Map	Pad Button A4		Select Next Patch
-Map	Pad Button A8		Select Previous Patch
-
-Scope	Propellerhead Software	se.propellerheads.Complex
-//	Control Surface Item	Key	Remotable Item	Scale	Mode
-
-Map	Knob 1		Osc 1 Shape
-Map	Knob 2		Osc 2 Shape
-Map	Knob 3		Osc 3 Shape
-Map	Knob 5		Filter Freq
-Map	Knob 6		Filter Reso
-Map	Knob 4		Noise Color
-Map	Knob 7		Filter Drive
-Map	Knob 8		Shaper Drive
 Map	Pad Button A4		Select Next Patch
 Map	Pad Button A8		Select Previous Patch
 
