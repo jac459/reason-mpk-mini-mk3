@@ -927,6 +927,78 @@ Map	Knob 6		Delay Feedback			Rev
 Map	Knob 7		Delay Tilt			Rev
 Map	Knob 8		Delay Mix			Rev
 
+Scope	Synapse Audio	com.synapseAudioSoftware.Obsession
+Define Group	 Keyboard Shortcut Variations	control	modulation1	modulation2	oscillator	filter	envelope	voices	AB
+
+Map	Pad Button A5		Keyboard Shortcut Variations=control
+Map	Pad Button A6		Keyboard Shortcut Variations=modulation1
+Map	Pad Button A7		Keyboard Shortcut Variations=modulation2
+Map	Pad Button A8		Keyboard Shortcut Variations=oscillator
+Map	Pad Button A1		Keyboard Shortcut Variations=filter
+Map	Pad Button A2		Keyboard Shortcut Variations=envelope
+Map	Pad Button A3		Keyboard Shortcut Variations=voices
+Map	Pad Button A4		Keyboard Shortcut Variations=AB
+
+Map	Knob 1		portamento			control
+Map	Knob 2		unison			control
+Map	Knob 3		[A] Osc 2 Detune			control
+Map	Knob 4		[A] Osc 2 X-Mod			control
+Map	Knob 5		Effects			control
+Map	Knob 6		Tuning			control
+Map	Knob 7		Spread			control
+Map	Knob 8		Volume			control
+Map	Knob 1		mod LFO 1 Rate			modulation1
+Map	Knob 2		mod LFO 1 Rate (Sync)			modulation1
+Map	Knob 3		mod LFO 1 Shape			modulation1
+Map	Knob 4		mod LFO 1 Freq Depth			modulation1
+Map	Knob 5		mod LFO 1 Freq Osc 1			modulation1
+Map	Knob 6		mod LFO 1 Freq Osc 2			modulation1
+Map	Knob 7		mod LFO 1 Freq Filter			modulation1
+Map	Knob 8		mod LFO 1 PW Depth			modulation1
+Map	Knob 1		mod LFO 2 Rate			modulation2
+Map	Knob 2		mod LFO 2 Rate (Sync)			modulation2
+Map	Knob 3		mod LFO 2 Shape			modulation2
+Map	Knob 4		mod LFO 2 Freq Depth			modulation2
+Map	Knob 5		mod LFO 2 Freq Osc 1			modulation2
+Map	Knob 6		mod LFO 2 Freq Osc 2			modulation2
+Map	Knob 7		mod LFO 2 Freq Filter			modulation2
+Map	Knob 8		mod LFO 2 PW Depth			modulation2
+Map	Knob 1		[A] Osc 1 Frequency			oscillator
+Map	Knob 2		[A] Osc Pulse Width			oscillator
+Map	Knob 3		[A] Osc 2 Frequency			oscillator
+Map	Knob 5		[A] Osc 1 Saw			oscillator
+Map	Knob 6		[A] Osc 1 Pulse			oscillator
+Map	Knob 4		[A] Osc PW O2 Sync			oscillator
+Map	Knob 7		[A] Osc 2 Saw			oscillator
+Map	Knob 1		[A] Filter Frequency			filter
+Map	Knob 2		[A] Filter resonance			filter
+Map	Knob 3		[A] Filter envelope amount			filter
+Map	Knob 4		[A] Filter osc 1			filter
+Map	Knob 5		[A] Filter osc 2			filter
+Map	Knob 6		[A] Filter noise			filter
+Map	Knob 7		[A] Filter bp			filter
+Map	Knob 8		[A] Filter 4-pole			filter
+Map	Knob 1		[A] Filter Envelope Attack			envelope
+Map	Knob 2		[A] Filter Envelope Decay			envelope
+Map	Knob 3		[A] Filter Envelope Sustain			envelope
+Map	Knob 4		[A] Filter Envelope Release			envelope
+Map	Knob 5		[A] Loudness Envelope Attack			envelope
+Map	Knob 6		[A] Loudness Envelope Decay			envelope
+Map	Knob 7		[A] Loudness Envelope Sustain			envelope
+Map	Knob 8		[A] Loudness Envelope Release			envelope
+Map	Knob 1		Voice 1 Mute (#8 voices)			voices
+Map	Knob 2		Voice 2 Mute (#8 voices)			voices
+Map	Knob 3		Voice 3 Mute (#8 voices)			voices
+Map	Knob 4		Voice 4 Mute (#8 voices)			voices
+Map	Knob 5		Voice 5 Mute (#8 voices)			voices
+Map	Knob 6		Voice 6 Mute (#8 voices)			voices
+Map	Knob 7		Voice 7 Mute (#8 voices)			voices
+Map	Knob 8		Voice 8 Mute (#8 voices)			voices
+Map	Knob 1		Parts A/B Mix			AB
+Map	Knob 2		Select Previous Patch			AB
+Map	Knob 3		Select Next Patch			AB
+Map	Knob 4		Mode			AB
+
 Scope	Synapse Audio	com.synapseAudioSoftware.Legend
 Define Group	 Keyboard Shortcut Variations	Engine1	Engine2	Engine3	Control	Env	Contro2	Filter
 
