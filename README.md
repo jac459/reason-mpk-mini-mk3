@@ -1,6 +1,8 @@
 # reason-mpk-mini-mk3
 Reason Remote files for Akai MPK Mini MKIII
 
+## Release 12th June 2022
+Blamsoft Zero Hybrid Synthetizer
 ## Release 6th June 2022
 Blamsoft VK-2 / Zvork Oberon / Complex-1 / PredatorRE / Obsession
 
@@ -14,7 +16,7 @@ So far the following Synths have rich controls:
 ### Robotic Bean: Resonans
 ### Reveal Sound: ReSpire
 ### Synapse: The Legend, Antidote, Obsession
-### Blamsoft: Expanse, VK-2 Vicking Synthesizer
+### Blamsoft: Expanse, VK-2 Vicking Synthesizer, Zero Hybrid Synthetizer
 ### Softtube: Saturation knob (only 2 knobs, lol)
 ### Lectric Panda: Nostromo (80 elements controlled)
 ### Zvork: Oberon Synthesizer
