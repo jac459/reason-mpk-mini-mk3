@@ -1477,6 +1477,80 @@ Map	Knob 6		Unison Detune			Amplifier
 Map	Knob 7		Glide Amount			Amplifier
 Map	Knob 8		Unison Spread			Amplifier
 
+Scope	Blamsoft, Inc.	com.blamsoft.Zero
+Define Group	 Keyboard Shortcut Variations	OP1	OP2	OP3	Filter1	Filter2	Unison	LFO	FX
+Map	Pad Button A5		Keyboard Shortcut Variations=OP1
+Map	Pad Button A6		Keyboard Shortcut Variations=OP2
+Map	Pad Button A7		Keyboard Shortcut Variations=OP3
+Map	Pad Button A8		Keyboard Shortcut Variations=Filter1
+Map	Pad Button A4		Keyboard Shortcut Variations=Filter2
+Map	Pad Button A1		Keyboard Shortcut Variations=Unison
+Map	Pad Button A2		Keyboard Shortcut Variations=LFO
+Map	Pad Button A3		Keyboard Shortcut Variations=FX
+Map	Knob 1		Op 1 Wave			OP1
+Map	Knob 2		Op 1 Number of Harmonics			OP1
+Map	Knob 3		Op 1 Ratio			OP1
+Map	Knob 4		Op 1 Phase Coherence			OP1
+Map	Knob 5		Op 1 Key Reset			OP1
+Map	Knob 6		Op 1 LFO Sync			OP1
+Map	Knob 7		Op 1 LFO Rate			OP1
+Map	Knob 8		Op 1 LFO Wave			OP1
+Map	Knob 1		Op 2 Wave			OP2
+Map	Knob 2		Op 2 Number of Harmonics			OP2
+Map	Knob 3		Op 2 Ratio			OP2
+Map	Knob 4		Op 2 Phase Coherence			OP2
+Map	Knob 5		Op 2 Key Reset			OP2
+Map	Knob 6		Op 2 LFO Sync			OP2
+Map	Knob 7		Op 2 LFO Rate			OP2
+Map	Knob 8		Op 2 LFO Wave			OP2
+Map	Knob 1		Op 3 Wave			OP3
+Map	Knob 2		Op 3 Number of Harmonics			OP3
+Map	Knob 3		Op 3 Ratio			OP3
+Map	Knob 4		Op 3 Phase Coherence			OP3
+Map	Knob 5		Op 3 Key Reset			OP3
+Map	Knob 6		Op 3 LFO Sync			OP3
+Map	Knob 7		Op 3 LFO Rate			OP3
+Map	Knob 8		Op 3 LFO Wave			OP3
+Map	Knob 1		Filter 1 Mode			Filter1
+Map	Knob 2		Filter 1 Post Decimation			Filter1
+Map	Knob 3		Filter 1 Decimation			Filter1
+Map	Knob 4		Filter 1 Resonance			Filter1
+Map	Knob 5		Filter 1 Envelope Amount			Filter1
+Map	Knob 6		Filter 1 Frequency			Filter1
+Map	Knob 7		Operator Selection			Filter1
+Map	Knob 8		Envelope/HArmonics Selection			Filter1
+Map	Knob 1		Filter 2 Mode			Filter2
+Map	Knob 2		Filter 1 Amount			Filter2
+Map	Knob 3		Filter 2 Saturation			Filter2
+Map	Knob 4		Filter 2 Resonance			Filter2
+Map	Knob 5		Filter 2 Envelope Amount			Filter2
+Map	Knob 6		Filter 2 Frequency			Filter2
+Map	Knob 7		Operator Selection			Filter2
+Map	Knob 8		Envelope/HArmonics Selection			Filter2
+Map	Knob 1		Number of Voices			Unison
+Map	Knob 2		Detuning			Unison
+Map	Knob 3		Modifier X			Unison
+Map	Knob 4		Modifier Y			Unison
+Map	Knob 5		Chorus Delay			Unison
+Map	Knob 6		Chorus Rate			Unison
+Map	Knob 7		Chorus Depth			Unison
+Map	Knob 8		Chorus Mix			Unison
+Map	Knob 1		LFO 1 Sync			LFO
+Map	Knob 2		LFO 1 Rate			LFO
+Map	Knob 3		LFO 1 Wave			LFO
+Map	Knob 4		Global LFO Selection			LFO
+Map	Knob 5		LFO 2 Sync			LFO
+Map	Knob 6		LFO 2 Rate			LFO
+Map	Knob 7		LFO 2 Wave			LFO
+Map	Knob 1		Delay Enable			FX
+Map	Knob 2		Left Delay Time			FX
+Map	Knob 3		Right Delay Time			FX
+Map	Knob 4		Delay Mix			FX
+Map	Knob 5		Reverb Enable			FX
+Map	Knob 6		Reverb Damping			FX
+Map	Knob 7		Reverb Input Delay			FX
+Map	Knob 8		Reverb Mix			FX
+
 Scope	Zvork	fr.zvork.Oberton
 Define Group	 Keyboard Shortcut Variations	Osc1	Osc2	Mixer1	Mixer2	LFO1	LFO2	Filter1	Filter2
 Map	Pad Button A5		Keyboard Shortcut Variations=Osc1
